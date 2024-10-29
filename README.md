@@ -75,5 +75,4 @@ financial-news-classification/
 - Hyperparameter Tuning: Adjust parameters for improved accuracy.
 - Model Comparison: Experiment with alternative classifiers, like Support Vector Machines or Gradient Boosting.
   
-**License**
-- This project is licensed under the MIT License. See the LICENSE file for details.
+
