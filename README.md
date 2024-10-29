@@ -18,7 +18,7 @@
 **Dataset**
 - The dataset is publicly available on YBI Foundation's GitHub repository and includes various financial news articles labeled for classification.
 
-**File: **
+**File:**
 - Financial Market News.csv
 - Encoding: ISO-8859-1
   
